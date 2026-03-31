@@ -10,8 +10,10 @@ func permute(nums []int) [][]int {
             return
         }
         for i:=start;i<end;i++{
+            // fix the place before start and exchange, use loop to list all possibility
             nums[start],nums[i]=nums[i],nums[start]
             dfs(start+1,end)
+            // backtrack
             nums[start],nums[i]=nums[i],nums[start]
         }
     }
