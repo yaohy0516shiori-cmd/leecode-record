@@ -11,5 +11,5 @@ func searchInsert(nums []int, target int) int {
             l=mid+1
         }
     }
-    return l
+    return l // if not, last time must be l=mid+1>r
 }
