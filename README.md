@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0078-subsets) |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0131-palindrome-partitioning) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
