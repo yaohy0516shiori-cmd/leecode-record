@@ -11,5 +11,5 @@ func searchInsert(nums []int, target int) int {
             l=mid+1
         }
     }
-    return max(l,r)
+    return l
 }
