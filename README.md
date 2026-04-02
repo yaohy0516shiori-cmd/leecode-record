@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0216-combination-sum-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
