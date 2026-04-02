@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0051-n-queens) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
