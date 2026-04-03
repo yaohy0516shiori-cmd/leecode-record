@@ -14,10 +14,13 @@ func maxPathSum(root *TreeNode) int {
         if node == nil{
             return 0
         }
+        // find all left node, start from the bottom, if contribution of this node value smaller than 0, we don't need it
         l:=max(dfs(node.Left),0)
         r:=max(dfs(node.Right),0)
-        ans=max(node.Val+l+r,ans)
+        ans=max(node.Val+l+r,ans) 
+        // maximum result in the tree (left+right+node.val cannot return to top layer, illegal)
         return max(node.Val+l,node.Val+r, node.Val)
+        // return to top layer and continue
     }
     dfs(root)
     return ans
