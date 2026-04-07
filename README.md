@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0216-combination-sum-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,8 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
