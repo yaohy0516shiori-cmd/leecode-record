@@ -15,6 +15,7 @@ func pathSum(root *TreeNode, targetSum int) int {
             return
         }
         prefix+=node.Val
+        // res stores ancestor's sums, previous sums= one of ancestors' sum + target 
         ans+=res[prefix-targetSum]
         res[prefix]+=1
         dfs(node.Left,prefix)
