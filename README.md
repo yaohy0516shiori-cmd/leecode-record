@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0509-fibonacci-number) |
