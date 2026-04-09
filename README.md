@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0189-rotate-array) |
 ## Trie
 |  |
 | ------- |
