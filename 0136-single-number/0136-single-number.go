@@ -1,6 +1,6 @@
-import "sort"
+
 func singleNumber(nums []int) int {
-    sort.Ints(nums)
+    /*sort.Ints(nums)
     for i:=0;i<(len(nums)-1);{
         if nums[i]==nums[i+1]{
             i+=2
@@ -9,4 +9,11 @@ func singleNumber(nums []int) int {
         }
     }
     return nums[len(nums)-1]
+    complexity:O(NlogN)
+    */
+    res:=nums[0]
+    for i:=1;i<len(nums);i++{
+        res ^= nums[i]
+    }
+    return res
 }
