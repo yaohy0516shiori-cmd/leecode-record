@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0131-palindrome-partitioning) |
