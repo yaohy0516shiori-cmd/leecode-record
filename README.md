@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
