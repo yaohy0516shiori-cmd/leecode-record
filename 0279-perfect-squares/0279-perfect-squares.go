@@ -12,8 +12,8 @@ func numSquares(n int) int {
         return 1
     }
     for i:=2;i<n+1;i++{
-        mins:=10000
-        for j:=1;j*j<=i;j++{
+        mins:=10000 // mins must be reset for each i.
+        for j:=1;j*j<=i;j++{ // if i itself is a perfect square, that case is critical.
             temp:=dp[i-j*j]+1
             if temp<mins{
                 mins=temp
