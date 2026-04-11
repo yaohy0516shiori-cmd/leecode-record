@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
