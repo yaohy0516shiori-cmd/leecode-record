@@ -6,7 +6,7 @@ func longestCommonSubsequence(text1 string, text2 string) int {
     c   0  1 1 2 2 2
     e   0  1 1 2 2 3
     dp[i][j]: the length of common subsequence of text1[:i] and text2[:j]
-    dp[i][j]= 
+    dp[i][j]= (dp[i][j]=dp[i-1][j-1]+1 && text1[i-1]==text2[j-1]) ||  max(dp[i-1][j],dp[i][j-1])
     */
     dp:=make([][]int,len(text1)+1)
     for i:=0;i<len(text1)+1;i++{
