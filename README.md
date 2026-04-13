@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0078-subsets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0070-climbing-stairs) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
