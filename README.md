@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
+| [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
 ## Linked List
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0189-rotate-array) |
+| [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
 ## Trie
 |  |
 | ------- |
@@ -226,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0055-jump-game) |
+| [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
