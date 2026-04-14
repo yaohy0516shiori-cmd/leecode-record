@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0064-minimum-path-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0131-palindrome-partitioning) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0055-jump-game) |
 | [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
