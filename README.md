@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0152-maximum-product-subarray) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
