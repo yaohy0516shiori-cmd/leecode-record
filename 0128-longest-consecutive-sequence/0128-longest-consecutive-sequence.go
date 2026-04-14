@@ -8,7 +8,7 @@ func longestConsecutive(nums []int) int {
         hashmap[x]=true
     }
     for x:=range hashmap{
-        if !hashmap[x-1]{
+        if !hashmap[x-1]{ // important step: insure only be scanned one time for each element
             cur:=x
             count:=1
             for hashmap[cur+1]{
