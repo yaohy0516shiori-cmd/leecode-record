@@ -6,10 +6,10 @@ func subarraySum(nums []int, k int) int {
     if not, there is not subarray
     when we need subarray, prefix is a very good choice
     */
-    res:=make(map[int]int{0:1})
+    res:=map[int]int{0:1}
     prefix:=0
     ans:=0
-    for i := range nums{
+    for _, i := range nums{
         prefix+=i
         ans+=res[prefix-k]
         res[prefix]++
