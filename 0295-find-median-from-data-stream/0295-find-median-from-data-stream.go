@@ -1,177 +1,95 @@
 package main
 
+import "container/heap"
+
 // --------------------
-// 手写最小堆
+// min heap
 // --------------------
-type MinHeap struct {
-	data []int
+type MinHeap []int
+
+func (h MinHeap) Len() int { return len(h) }
+func (h MinHeap) Less(i, j int) bool {
+	return h[i] < h[j]
 }
-
-func (h *MinHeap) Len() int {
-	return len(h.data)
+func (h MinHeap) Swap(i, j int) {
+	h[i], h[j] = h[j], h[i]
 }
-
-func (h *MinHeap) Top() int {
-	return h.data[0]
+func (h *MinHeap) Push(x any) {
+	*h = append(*h, x.(int))
 }
-
-func (h *MinHeap) Push(val int) {
-	h.data = append(h.data, val)
-	h.siftUp(len(h.data) - 1)
-}
-
-func (h *MinHeap) Pop() int {
-	n := len(h.data)
-	if n == 1 {
-		x := h.data[0]
-		h.data = h.data[:0]
-		return x
-	}
-
-	top := h.data[0]
-	h.data[0] = h.data[n-1]
-	h.data = h.data[:n-1]
-	h.siftDown(0)
-	return top
-}
-
-func (h *MinHeap) siftUp(i int) {
-	for i > 0 {
-		parent := (i - 1) / 2
-		if h.data[parent] <= h.data[i] {
-			break
-		}
-		h.data[parent], h.data[i] = h.data[i], h.data[parent]
-		i = parent
-	}
-}
-
-func (h *MinHeap) siftDown(i int) {
-	n := len(h.data)
-	for {
-		left := 2*i + 1
-		right := 2*i + 2
-		smallest := i
-
-		if left < n && h.data[left] < h.data[smallest] {
-			smallest = left
-		}
-		if right < n && h.data[right] < h.data[smallest] {
-			smallest = right
-		}
-		if smallest == i {
-			break
-		}
-		h.data[i], h.data[smallest] = h.data[smallest], h.data[i]
-		i = smallest
-	}
+func (h *MinHeap) Pop() any {
+	old := *h
+	n := len(old)
+	x := old[n-1]
+	*h = old[:n-1]
+	return x
 }
 
 // --------------------
-// 手写最大堆
+// max heap
 // --------------------
-type MaxHeap struct {
-	data []int
+type MaxHeap []int
+
+func (h MaxHeap) Len() int { return len(h) }
+func (h MaxHeap) Less(i, j int) bool {
+	return h[i] > h[j] // 反过来，变成最大堆
 }
-
-func (h *MaxHeap) Len() int {
-	return len(h.data)
+func (h MaxHeap) Swap(i, j int) {
+	h[i], h[j] = h[j], h[i]
 }
-
-func (h *MaxHeap) Top() int {
-	return h.data[0]
+func (h *MaxHeap) Push(x any) {
+	*h = append(*h, x.(int))
 }
-
-func (h *MaxHeap) Push(val int) {
-	h.data = append(h.data, val)
-	h.siftUp(len(h.data) - 1)
-}
-
-func (h *MaxHeap) Pop() int {
-	n := len(h.data)
-	if n == 1 {
-		x := h.data[0]
-		h.data = h.data[:0]
-		return x
-	}
-
-	top := h.data[0]
-	h.data[0] = h.data[n-1]
-	h.data = h.data[:n-1]
-	h.siftDown(0)
-	return top
-}
-
-func (h *MaxHeap) siftUp(i int) {
-	for i > 0 {
-		parent := (i - 1) / 2
-		if h.data[parent] >= h.data[i] {
-			break
-		}
-		h.data[parent], h.data[i] = h.data[i], h.data[parent]
-		i = parent
-	}
-}
-
-func (h *MaxHeap) siftDown(i int) {
-	n := len(h.data)
-	for {
-		left := 2*i + 1
-		right := 2*i + 2
-		largest := i
-
-		if left < n && h.data[left] > h.data[largest] {
-			largest = left
-		}
-		if right < n && h.data[right] > h.data[largest] {
-			largest = right
-		}
-		if largest == i {
-			break
-		}
-		h.data[i], h.data[largest] = h.data[largest], h.data[i]
-		i = largest
-	}
+func (h *MaxHeap) Pop() any {
+	old := *h
+	n := len(old)
+	x := old[n-1]
+	*h = old[:n-1]
+	return x
 }
 
 // --------------------
 // MedianFinder
 // --------------------
 type MedianFinder struct {
-	small MaxHeap // 左边最大堆
-	large MinHeap // 右边最小堆
+	small *MaxHeap // 左半边，最大堆
+	large *MinHeap // 右半边，最小堆
 }
 
 func Constructor() MedianFinder {
+	small := &MaxHeap{}
+	large := &MinHeap{}
+	heap.Init(small)
+	heap.Init(large)
 	return MedianFinder{
-		small: MaxHeap{data: []int{}},
-		large: MinHeap{data: []int{}},
+		small: small,
+		large: large,
 	}
 }
 
 func (this *MedianFinder) AddNum(num int) {
-	// 先放进左边最大堆
-	this.small.Push(num)
+	// 先放到 small
+	heap.Push(this.small, num)
 
-	// 保证 small.Top() <= large.Top()
-	if this.large.Len() > 0 && this.small.Top() > this.large.Top() {
-		x := this.small.Pop()
-		this.large.Push(x)
+	// 保证 small 最大值 <= large 最小值
+	if this.large.Len() > 0 && (*(this.small))[0] > (*(this.large))[0] {
+		x := heap.Pop(this.small).(int)
+		heap.Push(this.large, x)
 	}
 
-	// 保证数量平衡
+	// 平衡数量：small >= large，且最多多 1 个
 	if this.small.Len() > this.large.Len()+1 {
-		x := this.small.Pop()
-		this.large.Push(x)
+		x := heap.Pop(this.small).(int)
+		heap.Push(this.large, x)
 	} else if this.large.Len() > this.small.Len() {
-		x := this.large.Pop()
-		this.small.Push(x)
+		x := heap.Pop(this.large).(int)
+		heap.Push(this.small, x)
 	}
 }
 
 func (this *MedianFinder) FindMedian() float64 {
 	if this.small.Len() > this.large.Len() {
-		return float64(this.small.Top())
+		return float64((*(this.small))[0])
 	}
-	return float64(this.small.Top()+this.large.Top()) / 2.0
+	return float64((*(this.small))[0]+(*(this.large))[0]) / 2.0
 }
