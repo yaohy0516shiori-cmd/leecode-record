@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
 ## Trie
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
 ## Union-Find
 |  |
 | ------- |
@@ -252,8 +254,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
