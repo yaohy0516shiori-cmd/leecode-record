@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0148-sort-list) |
 ## Prefix Sum
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -312,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
