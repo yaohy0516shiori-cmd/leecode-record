@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
 ## Dynamic Programming
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0138-copy-list-with-random-pointer) |
