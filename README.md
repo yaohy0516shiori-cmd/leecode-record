@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0739-daily-temperatures) |
 ## Binary Search Tree
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
