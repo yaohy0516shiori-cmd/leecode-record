@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
 ## Linked List
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
