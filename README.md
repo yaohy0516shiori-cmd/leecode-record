@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
+| [0394-decode-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/1143-longest-common-subsequence) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0739-daily-temperatures) |
 ## Binary Search Tree
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
