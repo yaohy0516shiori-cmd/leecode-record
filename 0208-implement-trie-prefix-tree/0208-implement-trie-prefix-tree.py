@@ -2,7 +2,7 @@ class treenode:
     def __init__(self):
         self.children={}
         self.end=False
-# 不同于二叉树但是形式类似, 总之要有办法指向下一个节点
+# 不同于二叉树但是形式类似, 总之要有办法指向下一个节点, 多叉树所以用dict来存下一层多个节点的指向
 class Trie:
 
     def __init__(self):
