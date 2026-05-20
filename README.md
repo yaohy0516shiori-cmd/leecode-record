@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0208-implement-trie-prefix-tree) |
 | [0394-decode-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0208-implement-trie-prefix-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
