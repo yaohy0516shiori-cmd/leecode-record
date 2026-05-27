@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0763-partition-labels) |
+| [0977-squares-of-a-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0977-squares-of-a-sorted-array) |
 ## Union-Find
 |  |
 | ------- |
