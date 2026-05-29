@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0025-reverse-nodes-in-k-group) |
+| [0203-remove-linked-list-elements](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0509-fibonacci-number) |
