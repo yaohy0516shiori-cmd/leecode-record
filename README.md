@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0707-design-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0295-find-median-from-data-stream) |
+| [0707-design-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0707-design-linked-list) |
 ## Data Stream
 |  |
 | ------- |
