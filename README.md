@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0045-jump-game-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0077-combinations) |
