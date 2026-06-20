@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0051-n-queens) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0078-subsets) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0075-sort-colors) |
