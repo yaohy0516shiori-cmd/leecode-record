@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0189-rotate-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/yaohy0516shiori-cmd/leecode-record/tree/master/0394-decode-string) |
